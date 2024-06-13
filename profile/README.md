@@ -1,6 +1,33 @@
-### Description
+# Liberu Control Panel - Laravel
 
-Welcome
+## Description
+
+
+The Web Hosting Control Panel is an open-source project designed to simplify the management of web hosting services. Built with a modern tech stack including Docker, Laravel 11, PHP 8.3, Filament 3.2, Livewire 3, and Jetstream 5, this project offers a powerful and user-friendly interface for managing websites, domains, databases, and more.
+
+## Features
+
+* User Management: Secure user authentication and authorization with Jetstream.
+* Website Management: Create, modify, and manage multiple websites easily.
+* Domain Management: Add and manage domain names and DNS records.
+* Database Management: Create, manage, and backup MySQL databases.
+* SSL Certificates: Generate and manage SSL certificates for secure connections.
+* File Management: Upload, edit, and organize files with an intuitive file manager.
+* Monitoring and Logs: Track usage statistics and access logs.
+* Backup and Restore: Automated backups and easy restoration processes.
+* Email Management: Set up and manage email accounts and forwarding.
+* Responsive Design: Access the control panel from any device with a responsive interface.
+* Docker Integration: Simplified deployment and container management using Docker.
+* Extensible: Modular architecture for adding new features and integrations.
+
+## Technologies Used
+
+* Docker: Containerization for easy deployment and management.
+* Laravel 11: A powerful PHP framework for building scalable web applications.
+* PHP 8.3: Ensuring top performance and security.
+* Filament 3.2: An admin panel and form builder for rapid development.
+* Livewire 3: For building dynamic, real-time interfaces directly in Laravel.
+* Jetstream 5: A starter kit for implementing authentication, team management, and more.
 
 ## Our Projects
 
