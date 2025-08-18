@@ -15,7 +15,7 @@
 ## Description
 
 
-The Web Hosting Control Panel is an open-source project designed to simplify the management of web hosting services. Built with a modern tech stack including Docker, Laravel 11, PHP 8.3, Filament 3.2, Livewire 3, and Jetstream 5, this project offers a powerful and user-friendly interface for managing websites, domains, databases, and more.
+The Web Hosting Control Panel is an open-source project designed to simplify the management of web hosting services. Built with a modern tech stack including Docker, Laravel 12, PHP 8.4, Filament 4.0, Livewire, and Jetstream 5, this project offers a powerful and user-friendly interface for managing websites, domains, databases, and more.
 
 ## Features
 
