@@ -1,4 +1,4 @@
-# [Liberu Dockerised Webhosting Control Panel](https://www.liberu.org.uk) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
+# [Liberu Dockerised Webhosting Control Panel](https://www.liberu.co.uk) ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 
 ![](https://img.shields.io/badge/PHP-8.4-informational?style=flat&logo=php&color=4f5b93)
 ![](https://img.shields.io/badge/Laravel-12-informational?style=flat&logo=laravel&color=ef3b2d)
@@ -9,7 +9,8 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
+# [Managed web hosting for our application packages](https://liberu.co.uk)
 
 
 ## Description
